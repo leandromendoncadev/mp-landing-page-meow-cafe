@@ -1,3 +1,6 @@
+Para conferir o projeto online acesse https://leandromendoncadev.github.io/mp-landing-page-meow-cafe/
+
+
 Dê vida ao design do "Meow Café" presente no Figma, transformando-o em uma página funcional! O principal objetivo deste mini projeto é refinar suas habilidades em HTML, JavaScript e CSS, construindo uma landing page sem depender de frameworks ou bibliotecas externas.
 
 ## 🔨 Requisitos
